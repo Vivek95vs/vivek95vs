@@ -2,13 +2,13 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vivek95vs&label=Profile%20Views&color=22d3a0&style=flat-square" alt="Views" />
-  <a href="https://linkedin.com/in/Vivek95vs">
+  <a href="https://www.linkedin.com/in/vivek-vs-525240183">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vivek95.vs@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://Vivek95vs.com">
+  <a href="https://vivek95vs.github.io/VivekPortfolio">
     <img src="https://img.shields.io/badge/Portfolio-22d3a0?style=flat-square&logo=vercel&logoColor=white" />
   </a>
 </p>
