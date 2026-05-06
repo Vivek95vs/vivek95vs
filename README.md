@@ -94,7 +94,6 @@ Presented at **ICCSP 2020 (IEEE)** · Citations: **17**
 - 💼 LinkedIn: https://linkedin.com/in/Vivek95vs
 - 🌐 Portfolio: https://Vivek95vs.com
 - 📧 Email: vivek95.vs@gmail.com
-- 📱 Phone: +91 9551917520
 - 📍 Malur, Karnataka, India
 
 ---
